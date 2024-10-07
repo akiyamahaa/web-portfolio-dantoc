@@ -63,14 +63,14 @@ function Carousel() {
               </div>
               <div className="content text-white">
                 <div className="author uppercase text-2xl leading-6 xl:text-text-black mb-2">
-                  Truyền thống
+                  Traditional
                 </div>
                 <div className="title mb-6 text-7xl xl:text-primary font-bold">
                   {item.title}
                 </div>
                 <div className="topic mb-3">
                   <p className="font-semibold text-lg xl:text-text-black ">
-                    Đặc điểm
+                    Characteristics
                   </p>
                   <p className="text-base xl:text-text-gray ">
                     {item.characteristic}
@@ -78,7 +78,7 @@ function Carousel() {
                 </div>
                 <div className="des">
                   <p className="font-semibold text-lg xl:text-text-black ">
-                    Ý nghĩa
+                    Significance
                   </p>
                   <p className="text-base xl:text-text-gray ">
                     {item.significance}

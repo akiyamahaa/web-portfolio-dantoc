@@ -24,160 +24,166 @@ export const arrayImg = [
     image: khmer,
     title: "Khmer",
     characteristic:
-      "Phụ nữ Khmer thường mặc váy dài, áo cánh, và quấn khăn sarong. Váy dài thường có nhiều lớp, được trang trí hoa văn cầu kỳ. Áo cánh có cổ tròn hoặc cổ chữ V, tay ngắn hoặc tay dài. Khăn sarong được quấn quanh eo, tạo nên vẻ uyển chuyển, duyên dáng. Trang phục Khmer cũng chịu ảnh hưởng của tôn giáo, đặc biệt là Phật giáo.",
+      "Khmer women typically wear long skirts, blouses, and wrap sarongs. The skirts are often layered and intricately decorated. Blouses have round or V-shaped collars with short or long sleeves. The sarong is wrapped around the waist, adding elegance and grace. Khmer clothing is influenced by religion, particularly Buddhism.",
     significance:
-      "Nhiều họa tiết trên trang phục có ý nghĩa tâm linh, thể hiện sự tôn kính đối với thần linh.",
+      "Many patterns on the clothing have spiritual meanings, showing respect for the deities.",
   },
   {
     image: nung,
-    title: "Nùng",
+    title: "Nung",
     characteristic:
-      "Áo của người Nùng có ống tay rộng, phần cổ tay và cổ áo được trang trí bằng những mảnh vải sáng màu trên nền áo màu chàm. Đặc biệt những họa tiết thổ cẩm được khéo léo thêu trên áo gây ấn tượng cho người mặc.",
+      "The Nung people's clothing features wide-sleeved shirts with cuffs and collars decorated with bright fabric against an indigo background. Particularly, the skillfully embroidered brocade patterns on the shirts leave a lasting impression on the wearer.",
     significance:
-      "Nhiều họa tiết trên áo được lấy cảm hứng từ tự nhiên, như hoa, lá, chim, cá... Chúng không chỉ mang ý nghĩa thẩm mỹ mà còn thể hiện niềm tin vào thần linh, tự nhiên và cuộc sống.",
+      "Many patterns on the shirt are inspired by nature, such as flowers, leaves, birds, fish, etc. These are not only aesthetically pleasing but also reflect beliefs in deities, nature, and life.",
   },
   {
     image: khomu,
-    title: "Khơ Mú",
+    title: "Khmu",
     characteristic:
-      "Trang phục đặc trưng của người Khơ Mú là áo cóm và váy. Áo cóm thường có màu tối, chất liệu dày dặn, giúp giữ ấm cơ thể trong điều kiện thời tiết khắc nghiệt. Váy của phụ nữ Khơ Mú thường có màu tối, độ dài ngắn ngang bắp chân, rất thuận tiện cho việc lao động.",
+      "The distinctive clothing of the Khmu people includes a traditional shirt and skirt. The shirt is typically dark-colored and made of thick material to keep the body warm in harsh weather. The women's skirts are also dark-colored and knee-length, making them convenient for labor.",
     significance:
-      "Các họa tiết trên trang phục còn thể hiện những ước muốn về cuộc sống như tình yêu, hạnh phúc, sức khỏe, mùa màng bội thu…",
+      "The motifs on the clothing express wishes for life, such as love, happiness, health, and abundant harvests.",
   },
   {
     image: ede,
-    title: "Ê-đê",
+    title: "Ede",
     characteristic:
-      "Trang phục đặc trưng của người Ê Đê là váy tấm và áo chui. Váy tấm thường được làm từ vải bông tự dệt, có độ bền cao và thấm hút mồ hôi tốt, có dáng dài, xòe rộng, phần eo được cột bằng dây hoặc thắt lưng. Trên váy thường được trang trí bằng các hoa văn sặc sỡ, được thêu tay tỉ mỉ. Áo chui được làm từ vải bông tự dệt, có độ dày vừa phải, cổ tròn, tay ngắn hoặc dài và không có cúc.",
+      "The Ede people wear distinctive wrap skirts and pull-over tops. The skirts are made of hand-woven cotton, durable, and absorb sweat well. They are long, wide, and tied at the waist with a belt. The skirts are often decorated with colorful, hand-embroidered patterns. The tops are also made of hand-woven cotton, moderately thick, with round necks, short or long sleeves, and no buttons.",
     significance:
-      "Những họa tiết trên trang phục thể hiện niềm tin vào thần linh như họa tiết con voi, mặt trăng, rồng,...",
+      "The patterns on the clothing reflect beliefs in deities, with motifs such as elephants, moons, dragons, and more.",
   },
   {
     image: tay,
-    title: "Tày",
+    title: "Tay",
     characteristic:
-      "Trang phục đặc trưng của phụ nữ Tày gồm áo năm thân, quần đen, khăn mỏ quả. Áo được may từ năm tấm vải ghép lại, tạo nên dáng áo vừa vặn, thoải mái khi vận động. Quần ống rộng, có cạp cao, khăn được quấn đầu khéo léo. Trên áo trang trí bởi hoa văn đơn giản, chủ yếu là các đường kẻ sọc, hình học, thêu tay tỉ mỉ.",
+      "Tay women wear a five-paneled shirt, black trousers, and a headscarf. The shirt is made from five pieces of fabric, resulting in a well-fitting, comfortable garment. The wide-legged trousers have a high waistband, and the scarf is skillfully wrapped around the head. The shirt is decorated with simple patterns, mainly stripes and geometric shapes, embroidered by hand.",
     significance:
-      "Việc sử dụng màu nhuộm tự nhiên và chất liệu vải tự dệt thể hiện sự tôn trọng thiên nhiên. Sự giản dị, tinh tế trong trang phục thể hiện sự khéo léo của người phụ nữ Tày.",
+      "The use of natural dyes and hand-woven fabrics demonstrates respect for nature. The simplicity and elegance of the clothing reflect the skill of Tay women.",
   },
   {
     image: muong,
-    title: "Mường",
+    title: "Muong",
     characteristic:
-      "Trang phục đặc trưng của phụ nữ Mường gồm áo cánh hoặc áo tứ thân, quần đen ống rộng và khăn đội đầu. Áo thường có cổ tròn, tay ngắn hoặc dài, được trang trí bằng các đường thêu, hoa văn tinh xảo. Quần đen ống rộng, cạp cao, tạo sự thoải mái khi vận động. Khăn thường được làm bằng vải bông, màu trắng hoặc màu chàm, trang trí bằng các đường thêu, hoa văn. Họa tiết trên trang phục thường là hoa, lá, chim, cá, hình học...",
+      "Muong women's attire includes a short blouse or traditional four-paneled shirt, wide-legged black trousers, and a headscarf. The blouse has a round collar, short or long sleeves, and is decorated with intricate embroidered patterns. The trousers are wide-legged and high-waisted, providing comfort for movement. The scarf is usually made of cotton, either white or indigo, adorned with embroidered patterns.",
     significance:
-      "Các họa tiết trên trang phục thể hiện ý nghĩa tôn trọng vũ trụ, đất trời, con người của dân tộc Mường. Nó còn thể hiện sự khéo léo và tỉ mỉ của phụ nữ nơi đây.",
+      "The motifs on the clothing symbolize respect for the universe, the earth, and the people of the Muong community. It also showcases the skill and meticulousness of the women.",
   },
   {
     image: cham,
-    title: "Chăm",
+    title: "Cham",
     characteristic:
-      "Trang phục truyền thống của phụ nữ Chăm gồm áo dài tay, váy quấn dài và khăn choàng đầu làm từ vải dệt tay với các hoa văn tinh xảo. Trang phục là sự kết hợp hài hòa từ những tua sợi đỏ, hạt cườm óng ánh và thắt lưng hoa văn giúp tôn nét duyên dáng. Khăn choàng đầu được làm từ vải mịn, thêu hoa văn đa dạng, viền bằng kim tuyến.",
+      "Traditional Cham women's clothing consists of long-sleeved tops, long wrap skirts, and headscarves made from hand-woven fabrics with intricate patterns. The garments combine red tassels, shimmering beads, and decorative belts, enhancing their grace. The headscarf is made of soft fabric, embroidered with diverse patterns and lined with shimmering thread.",
     significance:
-      "Trang phục thể hiện nét đẹp truyền thống và sự khéo léo trong nghệ thuật dệt vải của người Chăm, đồng thời thể hiện sự gắn bó với văn hóa và tín ngưỡng Hồi giáo.",
+      "The clothing reflects the traditional beauty and craftsmanship of Cham weaving and demonstrates their cultural and religious ties to Islam.",
   },
   {
     image: sandiu,
-    title: "Sán Díu",
+    title: "San Diu",
     characteristic:
-      "Trang phục truyền thống của phụ nữ Sán Díu gồm khăn đội đầu, áo yếm, áo dài xẻ tà hai bên, váy dài, thắt lưng và xà cạp. Áo yếm hình thoi, buộc lên cổ và eo, cổ áo đính khuy bạc, tua rua xanh đỏ. Khăn đội đầu màu đen, áo dài 4 thân, cổ bẻ có nẹp trơn, ve áo nẹp vải trắng hình chữ V, thắt eo bằng dải lụa xanh hoặc đỏ.",
+      "Traditional San Diu women's clothing includes a headscarf, halter top, long side-slit blouse, long skirt, belt, and leggings. The halter top is diamond-shaped, tied at the neck and waist, with silver buttons and blue or red tassels. The headscarf is black, the long blouse has four panels, and the collar is lined with white fabric in a V-shape. The waist is cinched with a blue or red silk ribbon.",
     significance:
-      "Trang phục thể hiện sự hòa hợp với thiên nhiên và văn hóa địa phương, giản dị nhưng tinh tế.",
+      "The clothing represents harmony with nature and local culture, being simple yet sophisticated.",
   },
   {
     image: hmong,
-    title: "H'Mông",
+    title: "H'Mong",
     characteristic:
-      "Trang phục truyền thống của phụ nữ H'Mông gồm áo dài, váy qua đầu gối, và khăn đội đầu. Áo dài tay được trang trí bằng hoa văn thổ cẩm sặc sỡ. Váy xòe nhiều tầng với hoa văn nổi bật tạo cảm giác bồng bềnh. Thắt lưng kết hợp với áo và váy thường có màu đen hoặc hoa văn thổ cẩm.",
+      "Traditional H'Mong women's clothing includes a long-sleeved top, a knee-length skirt, and a headscarf. The long-sleeved top is adorned with vibrant brocade patterns. The flared, layered skirt has standout patterns that give it a bouncy appearance. The belt, usually black or with brocade patterns, ties the outfit together.",
     significance:
-      "Trang phục phản ánh sự khéo léo trong nghệ thuật thêu tay, tình yêu thiên nhiên và là biểu tượng cho sự kiên cường, độc lập của dân tộc H'Mông.",
+      "The clothing reflects the skillful art of hand-embroidery, love for nature, and symbolizes the H'Mong people's resilience and independence.",
   },
   {
     image: hoa,
     title: "Hoa",
     characteristic:
-      "Trang phục truyền thống của phụ nữ Hoa thường là áo cổ viền cao, cài khuy một bên, xẻ tà cao hoặc áo 'sườn xám' dài, ôm ngang hông, xẻ tà dưới phần đùi. Màu sắc trang phục thường đậm, đặc biệt là hồng hoặc đỏ. Trang phục thường thêu hoặc in họa tiết tinh xảo như rồng, phượng, hoa sen, mây...",
+      "Traditional Hoa women's attire usually features a high-collared, side-buttoned top with a high slit or a long 'qipao' dress, fitting snugly at the hips and slitting below the thigh. The outfits are often brightly colored, especially pink or red, and embroidered or printed with intricate motifs like dragons, phoenixes, lotus flowers, and clouds.",
     significance:
-      "Trang phục của người Hoa phản ánh sự phong phú về văn hóa và thể hiện lòng kính trọng đối với tổ tiên, truyền thống lâu đời.",
+      "The attire reflects the cultural richness of the Hoa people and shows respect for ancestors and long-standing traditions.",
   },
   {
     image: thai,
-    title: "Thái",
+    title: "Thai",
     characteristic:
-      "Phụ nữ Thái thường mặc áo cánh ngắn, váy dài màu đen có họa tiết sặc sỡ ở gấu váy, kết hợp với khăn piêu và dây lưng nhiều màu. Áo có cổ tròn, tay ngắn hoặc dài, trang trí bằng các đường thêu hoa văn đơn giản. Váy đen dài đến mắt cá, may từ vải bông tự dệt, thoải mái và mát mẻ.",
+      "Thai women wear short blouses, long black skirts with colorful patterns on the hem, combined with a 'Pieu' scarf and a colorful belt. The blouse has a round collar with short or long sleeves and is adorned with simple embroidered patterns. The long black skirt is made of hand-woven cotton, comfortable and cool.",
     significance:
-      "Trang phục thể hiện sự duyên dáng, lịch lãm của người Thái, là biểu tượng của sự gắn kết cộng đồng và tôn trọng thiên nhiên.",
+      "The attire reflects the elegance and grace of Thai women, symbolizing community unity and respect for nature.",
   },
   {
     image: hanhi,
-    title: "Hà Nhì",
+    title: "Ha Nhi",
     characteristic:
-      "Phụ nữ Hà Nhì mặc áo dài, váy dài và khăn đội đầu với màu chủ đạo xanh và đen. Áo làm từ vải bông tự dệt, cổ áo và nẹp áo được trang trí bằng những đường thêu tỉ mỉ với họa tiết hình học, động vật như chim, cá, hoa lá. Váy dài đến mắt cá, thường có màu đen hoặc xanh đậm.",
+      "Ha Nhi women wear long blouses, long skirts, and headscarves, predominantly in blue and black. The blouse is made of hand-woven cotton, and the collar and front placket are decorated with meticulously embroidered geometric or animal patterns such as birds, fish, and flowers. The skirt is long, typically in dark colors like black or deep blue.",
     significance:
-      "Trang phục phản ánh sự cầu kỳ trong nghệ thuật thêu và biểu hiện sự gắn bó với văn hóa truyền thống, cuộc sống thiên nhiên.",
+      "The clothing reflects the detailed art of embroidery and the connection to traditional culture and nature.",
   },
   {
     image: lao,
-    title: "Lào",
+    title: "Lao",
     characteristic:
-      "Phụ nữ Lào mặc váy quấn (sinh) và áo dài tay, kết hợp với khăn choàng vai. Váy quấn làm từ cotton hoặc lụa, được trang trí bằng họa tiết thêu tay tinh xảo. Áo dài tay có thể là áo cánh hoặc cổ tròn, màu trơn hoặc họa tiết đơn giản, hài hòa với sinh. Khăn choàng vai là phụ kiện không thể thiếu, giúp giữ ấm và tăng thêm vẻ đẹp.",
+      "Lao women wear wrap skirts ('sinh') and long-sleeved blouses, combined with a shoulder scarf. The wrap skirts are made from cotton or silk, decorated with intricate hand-embroidered patterns. The blouse is either plain or features simple patterns, harmonizing with the skirt. The shoulder scarf is an essential accessory, providing warmth and enhancing the beauty of the outfit.",
     significance:
-      "Trang phục của người Lào thể hiện sự duyên dáng và gắn bó với văn hóa, tín ngưỡng Phật giáo.",
+      "Lao attire symbolizes grace and reflects cultural and religious ties to Buddhism.",
   },
   {
     image: cotu,
-    title: "Cơ Tu",
+    title: "Co Tu",
     characteristic:
-      "Phụ nữ Cơ Tu mặc váy quấn dài, áo cánh ngắn và khăn quấn đầu. Váy quấn được dệt bằng vải bông tự nhiên, có độ bền cao và thấm hút tốt, với hoa văn đa dạng thêu tay tinh xảo. Màu sắc chủ đạo là chàm đen, nâu đất hoặc trắng. Áo cánh ngắn thường cổ tròn hoặc vuông, tạo sự thoải mái khi vận động.",
+      "Co Tu women wear long wrap skirts, short blouses, and headscarves. The wrap skirts are made from natural cotton fabric, highly durable and absorbent, and feature diverse hand-embroidered patterns. The main colors are indigo, earth brown, or white. The short blouses have either round or square collars, providing comfort for movement.",
     significance:
-      "Trang phục của người Cơ Tu thể hiện sự gắn kết với thiên nhiên, cuộc sống du mục và biểu tượng cho sức mạnh, lòng dũng cảm.",
+      "The attire symbolizes the Co Tu people's connection to nature, their nomadic lifestyle, and represents strength and bravery.",
   },
   {
     image: pathen,
-    title: "Pà Thẻn",
+    title: "Pa Then",
     characteristic:
-      "Phụ nữ Pà Thẻn mặc váy dài, áo chít eo, trang trí bằng họa tiết thêu tay phức tạp. Váy dài đến mắt cá chân, có xẻ tà để di chuyển dễ dàng. Áo chít eo ôm sát cơ thể, phần tay áo thường ngắn hoặc dài đến khuỷu tay.",
+      "Pa Then women wear long skirts and fitted-waist blouses, decorated with intricate hand-embroidered patterns. The skirts are ankle-length, with slits for easier movement. The fitted-waist blouses hug the body, and the sleeves are either short or elbow-length.",
     significance:
-      "Trang phục của người Pà Thẻn phản ánh nét văn hóa riêng biệt, thể hiện niềm tự hào dân tộc và sự khéo léo trong nghệ thuật thêu.",
+      "The attire reflects the unique cultural identity of the Pa Then people, showcasing their pride and skill in hand embroidery.",
   },
   {
     image: giay,
-    title: "Giáy",
+    title: "Giay",
     characteristic:
-      "Phụ nữ Giáy thường mặc áo dài tay, váy dài và khăn quấn đầu. Áo màu xanh nước biển, đơn giản nhưng tinh tế, được trang trí bằng các đường kẻ sọc hoặc ô vuông. Váy dài ôm sát cơ thể, hài hòa với áo, khăn quấn đầu có họa tiết ô vuông.",
+      "Giay women typically wear long-sleeved blouses, long skirts, and headscarves. The blouses are simple yet elegant, in light blue, and are decorated with stripes or checkered patterns. The long skirts are form-fitting and harmonize with the blouses, while the headscarves feature checkered patterns.",
     significance:
-      "Trang phục của người Giáy thể hiện sự đơn giản, mộc mạc, nhưng tinh tế, phản ánh cuộc sống gắn liền với thiên nhiên và lao động sản xuất.",
+      "The attire reflects the Giay people's simple yet refined lifestyle, connected to nature and agricultural work.",
   },
   {
     image: chut,
-    title: "Chứt",
+    title: "Chut",
     characteristic:
-      "Trang phục người Chứt đơn giản với áo và váy từ vải thô. Áo cánh ngắn, cổ tròn hoặc vuông, váy dài quấn quanh eo. Trước đây, người Chứt sử dụng vỏ cây rừng như sui, sàng, si... để làm trang phục, nay dùng vải thô từ sợi bông hoặc lanh.",
+      "The Chut people's attire is simple, with short blouses and wrap skirts made from coarse fabric. The blouses have round or square collars, and the skirts are wrapped around the waist. In the past, the Chut people used tree bark, such as sui, sang, or si, to make their clothing, but now they use coarse cotton or linen fabric.",
     significance:
-      "Trang phục của người Chứt thể hiện sự giản dị, gần gũi với thiên nhiên và phản ánh cuộc sống tự cung tự cấp.",
+      "The clothing reflects simplicity and closeness to nature, representing a self-sufficient lifestyle.",
   },
   {
     image: boy,
-    title: "Bồ Y",
-    characteristic:
-      "Phụ nữ Bồ Y mặc áo dài tay và váy dài, màu đen hoặc xanh lam, với họa tiết thêu tay đơn giản. Áo dài có cổ tròn hoặc cổ vuông, may vừa vặn cơ thể, tạo sự thoải mái khi vận động. Váy dài đến mắt cá chân, với họa tiết hài hòa cùng áo, tạo nên sự uyển chuyển.",
+    title: "Bo Y",
+    characteristic: `Traditional attire of Bo Y women consists of long-sleeved blouses and long skirts, often in black or blue, with simple hand-embroidered patterns.
+The blouses, typically with round or square necklines, are simple yet elegant. They are usually tailored to fit the body comfortably, allowing for ease of movement. The patterns on the blouses are often simple stripes or checks.
+The skirts reach down to the ankles and often have a slightly flared hem, creating a graceful silhouette. The colors and patterns on the skirt usually match those on the blouse for a harmonious look.
+`,
     significance:
-      "Trang phục của người Bồ Y thể hiện sự tôn trọng và gắn bó với truyền thống văn hóa, biểu tượng cho sự giản dị và mộc mạc.",
+      "Bo Y attire reflects a deep respect for and connection to the ethnic group's cultural traditions, symbolizing simplicity and modesty.",
   },
   {
     image: tho,
-    title: "Thổ",
-    characteristic:
-      "Phụ nữ Thổ mặc áo cánh ngắn, váy dài và khăn quấn đầu với họa tiết thổ cẩm đa dạng. Áo ngắn ôm sát cơ thể, tay áo dài đến khuỷu tay. Váy dài đến mắt cá chân, phần chân váy xòe nhẹ. Khăn quấn đầu làm từ vải bông hoặc lụa, nhiều màu sắc và họa tiết khác nhau.",
+    title: "Tho",
+    characteristic: `Tho women typically wear short-sleeved blouses, long skirts, and head scarves, adorned with intricate brocade patterns.
+The blouses are short and fitted, accentuating the feminine form. The sleeves are typically elbow-length.
+The skirts reach down to the ankles and often have a slightly flared hem, creating a graceful silhouette.
+`,
     significance:
-      "Trang phục của người Thổ thể hiện sự phong phú và đa dạng văn hóa, là biểu tượng cho sự khéo léo trong nghề dệt thổ cẩm.",
+      "Tho attire reflects the rich diversity of their culture and symbolizes their exceptional skills in brocade weaving.",
   },
   {
     image: dao,
     title: "Dao",
-    characteristic:
-      "Phụ nữ Dao nổi bật với bộ trang phục đỏ, gồm áo dài thêu hoa văn tinh xảo, váy dài và khăn đội đầu thêu hoa văn và hạt cườm. Áo dài ôm sát cơ thể, với hoa văn lấy cảm hứng từ thiên nhiên và tín ngưỡng, thêu bằng chỉ đỏ, vàng, xanh. Váy và khăn cũng được thêu hoa văn hài hòa.",
-    significance:
-      "Trang phục của người Dao phản ánh sự tôn vinh tổ tiên, gắn bó với thiên nhiên và tín ngưỡng dân gian, biểu tượng cho sự kiên cường và độc lập.",
+    characteristic: `Dao women are renowned for their vibrant red attire, which consists of long embroidered blouses, long skirts, and elaborately embroidered head scarves adorned with beads.
+The blouses are long and fitted, creating an elegant silhouette. The sleeves are typically elbow-length or longer. The embroidery designs are incredibly diverse, drawing inspiration from nature, daily life, and Dao beliefs. Common motifs include flowers, leaves, birds, fish, and geometric patterns, meticulously hand-embroidered in shades of red, yellow, and green, creating vivid images on the fabric.
+The skirts reach down to the ankles and often have a slightly flared hem. The embroidery on the skirts typically matches that of the blouse, creating a harmonious ensemble.
+The head scarves are adorned with intricate embroidery and sparkling beads, adding an element of opulence.
+`,
+    significance: `Dao attire not only reflects a reverence for ancestors but also symbolizes a deep connection to nature and folk beliefs, as well as representing the resilience and independence of the ethnic group.`,
   },
 ];
