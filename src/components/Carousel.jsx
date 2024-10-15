@@ -12,7 +12,7 @@ function Carousel() {
   const sliderDom = useRef(null);
   const thumbnailBorderDom = useRef(null);
   const timeRunning = 3000;
-  const timeAutoNext = 6000;
+  const timeAutoNext = 60000;
 
   useEffect(() => {
     console.log("go here");
@@ -58,7 +58,7 @@ function Carousel() {
             <div className="item" key={`carousel-${item.image}`}>
               <div className="img-container">
                 <div className="relative w-full h-full xl:rounded-3xl xl:overflow-hidden">
-                  <img src={item.image} alt="bg-image" />
+                  <img src={item.image} alt="bg-image" className="" />
                 </div>
               </div>
               <div className="content text-white">
@@ -72,7 +72,7 @@ function Carousel() {
                   <p className="font-semibold text-lg xl:text-text-black ">
                     Characteristics
                   </p>
-                  <p className="text-base xl:text-text-gray ">
+                  <p className="text-sm sm:text-base xl:text-text-gray ">
                     {item.characteristic}
                   </p>
                 </div>
@@ -80,7 +80,7 @@ function Carousel() {
                   <p className="font-semibold text-lg xl:text-text-black ">
                     Significance
                   </p>
-                  <p className="text-base xl:text-text-gray ">
+                  <p className="text-sm sm:text-base xl:text-text-gray">
                     {item.significance}
                   </p>
                 </div>
