@@ -12,7 +12,7 @@ function Carousel() {
   const sliderDom = useRef(null);
   const thumbnailBorderDom = useRef(null);
   const timeRunning = 3000;
-  const timeAutoNext = 60000;
+  const timeAutoNext = 6000;
 
   useEffect(() => {
     console.log("go here");
